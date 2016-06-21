@@ -9,6 +9,6 @@
   "filename_extension" : ".clj",
   "display_name": "Android, clojure.test",
   "unit_test_framework": "clojure_test",
-  "image_name": "dj1nn/android_cucumber",
+  "image_name": "cyberdojofoundation/android_cucumber",
   "tab_size": 2
 }
