@@ -7,7 +7,7 @@
     "project.clj"
   ],
   "filename_extension" : ".clj",
-  "display_name": "Clojure, clojure.test",
+  "display_name": "Android, clojure.test",
   "unit_test_framework": "clojure_test",
   "image_name": "cyberdojofoundation/clojure_clojure_test",
   "tab_size": 2
